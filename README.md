@@ -26,7 +26,7 @@ Additionally, **inheritance** is demonstrated by extending the `Turtle` base cla
 
 Below are sample outputs of Pong Game:
 
-<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/d196335e-3451-40a4-bf49-66fe92759293" />
+<img width="400" alt="pong_game" src="https://github.com/user-attachments/assets/994328b7-396d-4198-821d-a45030960ba6" />
 
 ---
 
