@@ -10,9 +10,9 @@ class Paddle(Turtle):
         self.goto(position)
 
     def move_up(self):
-        self.goto(self.xcor(), self.ycor() + 20)
+        self.goto(self.xcor(), self.ycor() + 50)
 
     def move_down(self):
-        self.goto(self.xcor(), self.ycor() - 20)
+        self.goto(self.xcor(), self.ycor() - 50)
 
 
